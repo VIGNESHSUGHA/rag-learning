@@ -1,0 +1,38 @@
+
+==================================================
+Chunk 1
+Income Tax
+Income tax is charged on annual earnings.
+Tax slabs determine how much tax a person pays.
+
+==================================================
+Chunk 2
+Mutual Funds
+Mutual funds pool money from multiple investors.
+
+==================================================
+Chunk 3
+Fund managers invest in stocks and bonds.
+Home Loan
+A home loan is used to purchase property.
+
+==================================================
+Chunk 4
+Loan eligibility depends on income and credit score.
+Credit Score
+
+==================================================
+Chunk 5
+Credit Score
+Credit score determines creditworthiness.
+
+==================================================
+Chunk 6
+A higher score improves loan approval chances.
+Insurance
+
+==================================================
+Chunk 7
+Insurance
+Insurance protects against financial risks.
+Health insurance covers medical expenses.
